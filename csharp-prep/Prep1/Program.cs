@@ -14,8 +14,6 @@ class Program
         
         Console.WriteLine($"Your name is {fname}, {fname} {lname}.");
 
-    
-
 
     }
 }
